@@ -1,4 +1,4 @@
-//Skrevet av Amund Løchen s169999
+
 import java.util.Calendar;
 import java.text.SimpleDateFormat;
 

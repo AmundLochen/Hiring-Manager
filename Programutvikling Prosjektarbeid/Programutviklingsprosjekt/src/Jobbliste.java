@@ -1,4 +1,4 @@
-//Skrevet av Amund Løchen s169999
+
 import java.io.*;
 import java.util.LinkedList;
 import java.util.List;

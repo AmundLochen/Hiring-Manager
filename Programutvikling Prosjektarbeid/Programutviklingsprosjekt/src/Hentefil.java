@@ -1,4 +1,3 @@
-//Julie Colle s146311
 
 import java.io.*;
 import java.awt.*;

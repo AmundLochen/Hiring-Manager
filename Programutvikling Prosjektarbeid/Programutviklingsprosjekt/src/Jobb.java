@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.LinkedList;
 import java.util.List;
 
-//Programmert av Amund Løchen s169999
+
 
 //Starter klassen for Jobb.
 public class Jobb implements Serializable

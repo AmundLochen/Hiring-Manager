@@ -1,5 +1,3 @@
-//s156169
-//s169999 Amund Løchen
 
 import java.awt.*;
 import java.text.DateFormat;

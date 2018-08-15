@@ -1,4 +1,4 @@
-//Skrevet av Amund Løchen s169999
+
 import java.awt.event.*;
 import java.io.File;
 import java.io.FileNotFoundException;

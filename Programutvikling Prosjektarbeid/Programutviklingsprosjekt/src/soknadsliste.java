@@ -1,5 +1,4 @@
-//Skrevet av Julie Colle s146311
-//Amund Løchen s169999
+
 
 import java.io.*;
 import java.util.LinkedList;

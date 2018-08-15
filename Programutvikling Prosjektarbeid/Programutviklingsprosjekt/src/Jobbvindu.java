@@ -1,4 +1,4 @@
-//Vindusklasse for vinduet man bruker til å registrere jobber. Skrevet av Amund Løchen. s169999
+
 
 import java.awt.*;
 import java.awt.event.ActionEvent;

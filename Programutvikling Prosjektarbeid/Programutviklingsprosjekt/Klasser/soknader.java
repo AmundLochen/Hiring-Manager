@@ -1,5 +1,4 @@
-// Julie Colle s146311
-//import java.util.Date;
+
 
 public class soknader 
 {

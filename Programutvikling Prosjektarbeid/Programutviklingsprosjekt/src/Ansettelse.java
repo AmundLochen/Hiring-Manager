@@ -2,7 +2,7 @@ import java.util.Calendar;
 import java.text.SimpleDateFormat;
 import java.io.Serializable;
 
-//Julie Colle s146311
+
 
 //Klasse for å registrere ansettelser. Dvs hvor mange søknader som har blitt godtatt hvor søkerne har fått jobben.
 public class Ansettelse implements Serializable

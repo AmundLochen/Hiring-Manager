@@ -1,5 +1,4 @@
-//Skrevet av Amund Løchen. s169999
-//Julie Colle s146311
+
 
 import java.awt.*;
 import java.text.DateFormat;

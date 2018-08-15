@@ -1,5 +1,4 @@
-//s156169 Maha Laham
-//Amund Løchen s169999
+
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

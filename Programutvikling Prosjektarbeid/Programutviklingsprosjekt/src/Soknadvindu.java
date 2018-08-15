@@ -1,5 +1,4 @@
-//Amund Løchen s169999
-//Julie Colle s146311
+
 
 import java.awt.Color;
 import java.awt.Container;

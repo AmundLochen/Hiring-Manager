@@ -1,5 +1,4 @@
-//Maha Laham s156169
-//Julie Colle s146311
+
 
 import java.awt.Container;
 import java.awt.FlowLayout;

@@ -1,6 +1,4 @@
 
-
-	//Skrevet av Julie Colle s146311 og Amund Løchen s169999
 	import java.io.*;
 	import java.util.LinkedList;
 	import java.util.List;
