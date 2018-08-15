@@ -1,0 +1,2 @@
+La inn litt mer av det jeg har arbeidet på, fortsatt veldig uferdig. Alt ligger i src. Har laget noen enkle vinduer for registrering av jobb og arbeidssøkere, 
+kan få laget resten av GUIen så fort som mulig slik at den er ute av veien.

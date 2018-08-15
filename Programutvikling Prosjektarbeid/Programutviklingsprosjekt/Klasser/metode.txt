@@ -1,0 +1,30 @@
+public String ledig(){
+
+	int size;
+	size = Jobb.size();
+	if (Jobb.isEmpty())
+	{
+	 	return "feil";
+	}
+	else {
+	 return "antall ledige jobber" + size "\n" + ;
+	}
+}
+
+---------------
+
+public String arbeidere(){
+
+		int size;
+		size = Jobb.size();
+		if (Jobb.isEmpty())
+		{
+		 	return "feil";
+		}
+		else {
+		 return "antall ledige jobber" + size +"\n" + getSokerID();
+		}
+	}
+
+-----------
+
